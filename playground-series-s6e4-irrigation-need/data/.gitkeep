@@ -1,0 +1,8 @@
+# Place competition data files here:
+#   train.csv
+#   test.csv
+#   irrigation_prediction.csv
+#   sample_submission.csv
+#
+# Download with:
+#   kaggle competitions download -c playground-series-s6e4
