@@ -1,8 +1,8 @@
 # kaggle-competitions
 
-A scrapbook of every Kaggle competition I take a serious crack at. One folder per competition, each one a self-contained writeup of how I attacked it, what worked, what didn't, the scripts I'd want to reach for again, and the final rank.
+I will dump all my kaggle competitions here. One folder per competition, each one a self-contained writeup of how I approached it, what worked, what didn't, the scripts I'd want to reach for again, and the final rank.
 
-I started this because I kept losing the threads of what I learned between competitions — local folders piled up, scripts got stale, the lessons faded. This repo is the canonical home now: I work locally during a competition, then dump the cleaned-up artifacts here and wipe the local folder. Future-me only needs to look in one place.
+I started this because I kept losing the threads of what I learned between competitions and local folders piled up, scripts got stale, the lessons faded. This repo is intended to dump all important competition stuff before deleting locally. Good old claude can help with documentation.
 
 ## Competitions
 
@@ -25,10 +25,9 @@ Each competition folder follows the same shape:
 └── .gitignore
 ```
 
-The READMEs lean long because the interesting stuff is usually in why something didn't work, not the final pipeline. I write them mostly for myself six months later.
+The READMEs are self explanatory for each competition, just open the folder and follow. 
 
 ## About me
 
-Data scientist by trade, Kaggle player by obsession. I learn faster by doing things badly first, so most of my competition runs include 30+ rounds of experiments before the actual solution emerges. The repo captures the path, not just the destination.
-
-If you're reading this from a future competition — hi. Keep going.
+Data science is an art, and here I am trying to be an artist. 
+My kaggle account: https://www.kaggle.com/dokababaa
