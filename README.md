@@ -2,7 +2,7 @@
 
 I will dump all my kaggle competitions here. One folder per competition, each one a self-contained writeup of how I approached it, what worked, what didn't, the scripts I'd want to reach for again, and the final rank.
 
-I started this because I kept losing the threads of what I learned between competitions and local folders piled up, scripts got stale, the lessons faded. This repo is intended to dump all important competition stuff before deleting locally. Good old claude can help with documentation.
+I started this because I kept losing the threads of what I learned between competitions and local folders kept getting piled up, scripts got forgotten and the lessons unlearnt. This repo is intended to dump all important competition stuff before deleting locally. 
 
 ## Competitions
 
