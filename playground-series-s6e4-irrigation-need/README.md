@@ -3,7 +3,7 @@
 Kaggle Tabular Playground Series, Season 6 Episode 4. Multiclass classification predicting `Irrigation_Need` (Low / Medium / High) from 19 agronomic features. Metric: **balanced accuracy**.
 
 - **Best public LB:** `0.97785`
-- **Final rank:** 775/4315
+- **Final rank:** 775/4315 (Top 18%, I could do better :/)
 - **Submissions made:** 6 scoring (best kept; rest pruned during exploration)
 - **Compute:** local CPU (M-series MacBook), no GPU
 - **Total runtime across all rounds:** ~120 hours of model training
