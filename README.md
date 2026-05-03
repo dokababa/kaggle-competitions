@@ -8,7 +8,7 @@ I started this because I kept losing the threads of what I learned between compe
 
 | # | Competition | Dates | Best Public LB | Final Rank |
 |---|-------------|-------|----------------|------------|
-| 1 | [Playground Series S6E4 — Predicting Irrigation Need](./playground-series-s6e4-irrigation-need) | Apr 2026 | **0.97785** (balanced accuracy) | _TBD_ |
+| 1 | [Playground Series S6E4 — Predicting Irrigation Need](./playground-series-s6e4-irrigation-need) | Apr 2026 | **0.97785** (balanced accuracy) | 775/4315 |
 
 ## How to read each folder
 
