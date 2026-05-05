@@ -30,5 +30,6 @@ The READMEs are self explanatory for each competition, just open the folder and 
 ## About me
 
 Data science is an art, and here I am trying to be an artist. 
+Lowkey miserable at it but I keep trying! 
 
 My kaggle account: https://www.kaggle.com/dokababaa
